@@ -12,7 +12,6 @@ int main() {
 
     printf("Before swapping: a = %d, b = %d\n", a, b);
 
-    // Swap the values of a and b using a third variable (c)
     c = a;
     a = b;
     b = c;
